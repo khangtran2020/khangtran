@@ -1,13 +1,30 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+# About me
+<!-- ====== -->
+
+I am a Ph.D. candidate in the Department of Data Science at New Jersey Institute of Technology. I received a Bachelor degree in Physics Education with a minor in Computer Science at Ho Chi Minh University of Education. My research focus on trustworthy AI, with a focus on machine learning security, privacy, and robustness. My research develops theoretically grounded and practically deployable methods for building reliable learning systems, particularly large language models in high-stakes settings.
+
+My work sits at the intersection of AI security, privacy-preserving learning, and secure code generation, with publications at leading venues in trustworthy AI and cybersecurity. I am currently seeking postdoctoral opportunities to advance research on robust and privacy-preserving LLMs, efficient model adaptation, and principled defenses against emerging threats to foundation models.
+
+-----
+
+# Research
+
+My research centers on trustworthy artificial intelligence and its integration with cybersecurity, with the goal of building learning systems that are private, fair, robust, and practically deployable. I focus on large language models (LLMs), which are increasingly trained on sensitive data, deployed via untrusted providers, and adapted under significant data and resource constraints. A core theme of my work is developing principled mechanisms with formal guarantees that span the full LLM lifecycle—from privacy-preserving training and inference to efficient and secure model adaptation—while maintaining strong empirical performance.
+
+A significant portion of my research advances privacy-preserving learning and deployment of LLMs. I developed novel frameworks for data-free and differentially private model adaptation that enable organizations to leverage large models without exposing private data or relying on costly fine-tuning. My work also addresses the interaction between privacy and fairness, proposing certified methods that mitigate group disparities introduced by privacy mechanisms. These contributions combine rigorous theoretical analysis with practical system designs and have been validated across diverse benchmarks.
+
+In parallel, I investigate the use of AI for software security, bridging machine learning with program analysis to overcome the limitations of purely text-based approaches. By integrating structural representations such as code property graphs with LLMs, my work enables context-aware vulnerability detection and structure-guided test generation that significantly improves accuracy and interpretability. Overall, my research aims to bridge theory and systems to enable trustworthy AI and AI-powered security tools that can be reliably deployed in real-world, high-stakes environments
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +70,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

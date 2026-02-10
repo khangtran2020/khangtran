@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Data Science, New Jersey Institute of Technology, 2026 (expected)
+* B.Sc. in Physics Education (with minor in Computer Science), Ho Chi Minh University of Education, 2020
+
+------
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2024 - Aug 2025: Qatar Computing Research Institute - Cybersecurity group
+  * Position: Research Associate.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+------
+  
+Professional Services
+======
+* *I have served as a Reviewer for top-tier conferencs and Journals*: ICLR 2026, NeurIPs 2025, ICML 2025, NeurIPs 2024, ICLR 2024, ICML 2024, ICML 2023, NeurIPs 2023, NeurIPs 2022, ICML 2022, IEEE JOCO 2022, IEEE JOCO 2023, IEEE JOCO 2024, IEEE TDSC 2024, IEEE TDSC 2025.
+* Student supporter at IEEE BigData 2022.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+------
 
-Publications
+Grants
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+* **Grace Hopper's Research Award (\$50,000) - 2/2025**: “FunSec: Certified Functional and Secure Code Generation with Large Language Models.” New Jersey Institute of Technology.
+
+------
+
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* **IEEE SaTML Travel Award - 4/2025**: Received Student Travel Award to attend IEEE SaTML 2025, Denmark.
+* **IEEE BigData Travel Award - 12/2022**: Student Travel Award to attend IEEE BigData 2022, Japan.
+* **ACM ICPC Participant - 2017, 2018, 2019**: Reached to Regional Round.
+* **The International Data Science Contest - 2019**: Honorable Award - Forex Market trending prediction contest.
